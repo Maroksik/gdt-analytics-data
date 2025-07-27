@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-07-27T12:40:49.107Z",
+  "projects": [
+    {
+      
+  ],
+  "clients": [
+    
+  ],
+  "bases": [
+    
+  ],
+  "statistics": {
+    "total": 4,
+    "active": 0,
+    "whitePassed": 3,
+    "whiteSpamDown": 1,
+    "whiteBanned": 0,
+    "grayPassed": 2,
+    "grayBanned": 1,
+    "grayReviewBanned": 1,
+    "whitePassRate": 75,
+    "grayPassRate": 67,
+    "whiteAvgLife": 20,
+    "grayAvgLife": 17
+  }
+}
