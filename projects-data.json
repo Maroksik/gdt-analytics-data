@@ -1,30 +1,42 @@
 {
-  "timestamp": "2025-07-28T07:55:30.525Z",
+  "timestamp": "2025-07-28T07:59:27.574Z",
   "version": "1.0",
-  "projects": [],
+  "projects": [
+    {
+      "id": "test-1",
+      "name": "Тестовий проект",
+      "client": "Тест замовник",
+      "base": "Тест база",
+      "createdAt": "2025-07-28T07:59:27.575Z",
+      "description": "Тестовий проект для перевірки синхронізації",
+      "url": "",
+      "whitePassed": true,
+      "whitePassedDate": "2025-07-28",
+      "whiteSpamDown": false,
+      "whiteSpamDownDate": null,
+      "whiteBanned": false,
+      "whiteBannedDate": null,
+      "grayPassed": false,
+      "grayPassedDate": null,
+      "grayReviewBanned": false,
+      "grayReviewBannedDate": null,
+      "grayBanned": false,
+      "grayBannedDate": null
+    }
+  ],
   "clients": [
+    "Тест замовник",
     "Замовник 1",
-    "Замовник 2",
-    "Замовник 3"
+    "Замовник 2"
   ],
   "bases": [
+    "Тест база",
     "База 1",
-    "База 2",
-    "База 3",
-    "Власна база"
+    "База 2"
   ],
   "statistics": {
-    "total": 0,
-    "active": 0,
-    "whitePassed": 0,
-    "whiteSpamDown": 0,
-    "whiteBanned": 0,
-    "grayPassed": 0,
-    "grayBanned": 0,
-    "grayReviewBanned": 0,
-    "whitePassRate": 0,
-    "grayPassRate": 0,
-    "whiteAvgLife": 0,
-    "grayAvgLife": 0
+    "total": 1,
+    "whitePassRate": 100,
+    "grayPassRate": 0
   }
 }
