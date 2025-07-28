@@ -1,1 +1,135 @@
-
+{
+  "timestamp": "2025-01-28T12:00:00.000Z",
+  "version": "1.0",
+  "description": "GDT Analytics - Дані проектів та аналітики",
+  "projects": [
+    {
+      "id": "project-001-example",
+      "name": "Приклад проекту 1",
+      "client": "Замовник 1",
+      "base": "База 1",
+      "createdAt": "2025-01-20T08:00:00.000Z",
+      "url": "https://example1.com",
+      "description": "Приклад успішного проекту який пройшов обидві частини",
+      
+      "whitePassed": true,
+      "whitePassedDate": "2025-01-22",
+      "whiteSpamDown": false,
+      "whiteSpamDownDate": null,
+      "whiteBanned": false,
+      "whiteBannedDate": null,
+      
+      "grayPassed": true,
+      "grayPassedDate": "2025-01-25",
+      "grayReviewBanned": false,
+      "grayReviewBannedDate": null,
+      "grayBanned": false,
+      "grayBannedDate": null
+    },
+    {
+      "id": "project-002-example",
+      "name": "Приклад проекту 2",
+      "client": "Замовник 2",
+      "base": "База 2",
+      "createdAt": "2025-01-15T10:30:00.000Z",
+      "url": "https://example2.com",
+      "description": "Проект який отримав спам диз на білій частині",
+      
+      "whitePassed": false,
+      "whitePassedDate": null,
+      "whiteSpamDown": true,
+      "whiteSpamDownDate": "2025-01-18",
+      "whiteBanned": false,
+      "whiteBannedDate": null,
+      
+      "grayPassed": false,
+      "grayPassedDate": null,
+      "grayReviewBanned": false,
+      "grayReviewBannedDate": null,
+      "grayBanned": false,
+      "grayBannedDate": null
+    },
+    {
+      "id": "project-003-example",
+      "name": "Приклад проекту 3",
+      "client": "Замовник 1",
+      "base": "База 3",
+      "createdAt": "2025-01-10T14:15:00.000Z",
+      "url": "",
+      "description": "Проект забанений на ревю сірої частини",
+      
+      "whitePassed": true,
+      "whitePassedDate": "2025-01-12",
+      "whiteSpamDown": false,
+      "whiteSpamDownDate": null,
+      "whiteBanned": false,
+      "whiteBannedDate": null,
+      
+      "grayPassed": false,
+      "grayPassedDate": null,
+      "grayReviewBanned": true,
+      "grayReviewBannedDate": "2025-01-15",
+      "grayBanned": false,
+      "grayBannedDate": null
+    },
+    {
+      "id": "project-004-example",
+      "name": "Активний проект",
+      "client": "Замовник 3",
+      "base": "Власна база",
+      "createdAt": "2025-01-25T09:00:00.000Z",
+      "url": "https://active-project.com",
+      "description": "Поточний активний проект в процесі роботи",
+      
+      "whitePassed": false,
+      "whitePassedDate": null,
+      "whiteSpamDown": false,
+      "whiteSpamDownDate": null,
+      "whiteBanned": false,
+      "whiteBannedDate": null,
+      
+      "grayPassed": false,
+      "grayPassedDate": null,
+      "grayReviewBanned": false,
+      "grayReviewBannedDate": null,
+      "grayBanned": false,
+      "grayBannedDate": null
+    }
+  ],
+  "clients": [
+    "Замовник 1",
+    "Замовник 2", 
+    "Замовник 3",
+    "Тестовий замовник"
+  ],
+  "bases": [
+    "База 1",
+    "База 2",
+    "База 3",
+    "Власна база",
+    "Тестова база"
+  ],
+  "statistics": {
+    "total": 4,
+    "active": 1,
+    "whitePassed": 2,
+    "whiteSpamDown": 1,
+    "whiteBanned": 0,
+    "grayPassed": 1,
+    "grayBanned": 0,
+    "grayReviewBanned": 1,
+    "whitePassRate": 67,
+    "grayPassRate": 50,
+    "whiteAvgLife": 15,
+    "grayAvgLife": 12
+  },
+  "metadata": {
+    "lastSync": "2025-01-28T12:00:00.000Z",
+    "totalProjects": 4,
+    "dataIntegrity": "valid",
+    "backupInfo": {
+      "created": "2025-01-28T12:00:00.000Z",
+      "source": "gdt-analytics-web-app"
+    }
+  }
+}
