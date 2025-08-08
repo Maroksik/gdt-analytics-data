@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-03T09:28:37.994Z",
+  "timestamp": "2025-08-08T11:54:37.797Z",
   "version": "1.0",
   "projects": [
     {
@@ -140,7 +140,7 @@
     "grayReviewBanned": 1,
     "whitePassRate": 67,
     "grayPassRate": 50,
-    "whiteAvgLife": 26,
-    "grayAvgLife": 28
+    "whiteAvgLife": 30,
+    "grayAvgLife": 33
   }
 }
