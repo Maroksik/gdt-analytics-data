@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-08T11:55:24.003Z",
+  "timestamp": "2025-08-08T11:56:47.497Z",
   "version": "1.0",
   "projects": [
     {
@@ -127,20 +127,41 @@
       "grayReviewBannedDate": null,
       "grayBanned": false,
       "grayBannedDate": null
+    },
+    {
+      "id": "1754654165277gpprudm4r",
+      "name": "Chicken Survivors",
+      "client": "Jim",
+      "base": "Unity",
+      "createdAt": "2025-08-08T00:00:00.000Z",
+      "url": "https://apps.apple.com/us/app/chicken-survivors/id6748910064",
+      "description": "",
+      "whitePassed": true,
+      "whitePassedDate": "2025-08-05",
+      "whiteSpamDown": false,
+      "whiteSpamDownDate": null,
+      "whiteBanned": false,
+      "whiteBannedDate": null,
+      "grayPassed": false,
+      "grayPassedDate": null,
+      "grayReviewBanned": false,
+      "grayReviewBannedDate": null,
+      "grayBanned": false,
+      "grayBannedDate": null
     }
   ],
   "statistics": {
-    "total": 6,
+    "total": 7,
     "active": 0,
-    "whitePassed": 4,
+    "whitePassed": 5,
     "whiteSpamDown": 2,
     "whiteBanned": 0,
     "grayPassed": 1,
     "grayBanned": 0,
     "grayReviewBanned": 1,
-    "whitePassRate": 67,
+    "whitePassRate": 71,
     "grayPassRate": 50,
-    "whiteAvgLife": 30,
+    "whiteAvgLife": 25,
     "grayAvgLife": 33
   }
 }
