@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-08T11:56:47.497Z",
+  "timestamp": "2025-08-11T15:09:12.901Z",
   "version": "1.0",
   "projects": [
     {
@@ -121,8 +121,8 @@
       "whiteSpamDownDate": null,
       "whiteBanned": false,
       "whiteBannedDate": null,
-      "grayPassed": false,
-      "grayPassedDate": null,
+      "grayPassed": true,
+      "grayPassedDate": "2025-08-11",
       "grayReviewBanned": false,
       "grayReviewBannedDate": null,
       "grayBanned": false,
@@ -156,12 +156,12 @@
     "whitePassed": 5,
     "whiteSpamDown": 2,
     "whiteBanned": 0,
-    "grayPassed": 1,
+    "grayPassed": 2,
     "grayBanned": 0,
     "grayReviewBanned": 1,
     "whitePassRate": 71,
-    "grayPassRate": 50,
-    "whiteAvgLife": 25,
-    "grayAvgLife": 33
+    "grayPassRate": 67,
+    "whiteAvgLife": 27,
+    "grayAvgLife": 19
   }
 }
