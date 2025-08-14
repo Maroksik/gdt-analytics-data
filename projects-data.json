@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-11T15:09:12.901Z",
+  "timestamp": "2025-08-14T07:39:05.410Z",
   "version": "1.0",
   "projects": [
     {
@@ -148,20 +148,41 @@
       "grayReviewBannedDate": null,
       "grayBanned": false,
       "grayBannedDate": null
+    },
+    {
+      "id": "1755155936212s9hqv540r",
+      "name": "Burn Academy",
+      "client": "Jim",
+      "base": "Flutter",
+      "createdAt": "2025-08-14T00:00:00.000Z",
+      "url": "",
+      "description": "",
+      "whitePassed": true,
+      "whitePassedDate": "2025-08-13",
+      "whiteSpamDown": false,
+      "whiteSpamDownDate": null,
+      "whiteBanned": false,
+      "whiteBannedDate": null,
+      "grayPassed": false,
+      "grayPassedDate": null,
+      "grayReviewBanned": false,
+      "grayReviewBannedDate": null,
+      "grayBanned": false,
+      "grayBannedDate": null
     }
   ],
   "statistics": {
-    "total": 7,
+    "total": 8,
     "active": 0,
-    "whitePassed": 5,
+    "whitePassed": 6,
     "whiteSpamDown": 2,
     "whiteBanned": 0,
     "grayPassed": 2,
     "grayBanned": 0,
     "grayReviewBanned": 1,
-    "whitePassRate": 71,
+    "whitePassRate": 75,
     "grayPassRate": 67,
-    "whiteAvgLife": 27,
-    "grayAvgLife": 19
+    "whiteAvgLife": 25,
+    "grayAvgLife": 22
   }
 }
