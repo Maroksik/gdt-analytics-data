@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-15T11:36:48.675Z",
+  "timestamp": "2025-08-15T11:37:55.388Z",
   "version": "1.0",
   "projects": [
     {
@@ -171,7 +171,7 @@
       "grayBannedDate": null
     },
     {
-      "id": "17552432889126u2vm76nu",
+      "id": "1755257872041i1192onto",
       "name": "FryTrail Rent",
       "client": "Jim",
       "base": "Flutter",
@@ -190,41 +190,20 @@
       "grayReviewBannedDate": null,
       "grayBanned": false,
       "grayBannedDate": null
-    },
-    {
-      "id": "17552578026998pmd0984f",
-      "name": "Healthy Road",
-      "client": "GDT",
-      "base": "Flutter",
-      "createdAt": "2025-08-15T00:00:00.000Z",
-      "url": "https://apps.apple.com/us/app/healthy-road/id6749845806",
-      "description": "",
-      "whitePassed": true,
-      "whitePassedDate": "2025-08-15",
-      "whiteSpamDown": false,
-      "whiteSpamDownDate": null,
-      "whiteBanned": false,
-      "whiteBannedDate": null,
-      "grayPassed": false,
-      "grayPassedDate": null,
-      "grayReviewBanned": false,
-      "grayReviewBannedDate": null,
-      "grayBanned": false,
-      "grayBannedDate": null
     }
   ],
   "statistics": {
-    "total": 10,
+    "total": 9,
     "active": 0,
-    "whitePassed": 8,
+    "whitePassed": 7,
     "whiteSpamDown": 2,
     "whiteBanned": 0,
     "grayPassed": 3,
     "grayBanned": 0,
     "grayReviewBanned": 1,
-    "whitePassRate": 80,
+    "whitePassRate": 78,
     "grayPassRate": 75,
-    "whiteAvgLife": 20,
+    "whiteAvgLife": 22,
     "grayAvgLife": 15
   }
 }
