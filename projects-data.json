@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-15T11:39:02.051Z",
+  "timestamp": "2025-08-15T11:46:34.168Z",
   "version": "1.0",
   "projects": [
     {
@@ -190,20 +190,41 @@
       "grayReviewBannedDate": null,
       "grayBanned": false,
       "grayBannedDate": null
+    },
+    {
+      "id": "1755257991732dbh6ebkht",
+      "name": "Healthy Road",
+      "client": "GDT",
+      "base": "Flutter",
+      "createdAt": "2025-08-15T00:00:00.000Z",
+      "url": "",
+      "description": "",
+      "whitePassed": true,
+      "whitePassedDate": "2025-08-15",
+      "whiteSpamDown": false,
+      "whiteSpamDownDate": null,
+      "whiteBanned": false,
+      "whiteBannedDate": null,
+      "grayPassed": false,
+      "grayPassedDate": null,
+      "grayReviewBanned": false,
+      "grayReviewBannedDate": null,
+      "grayBanned": false,
+      "grayBannedDate": null
     }
   ],
   "statistics": {
-    "total": 9,
+    "total": 10,
     "active": 0,
-    "whitePassed": 7,
+    "whitePassed": 8,
     "whiteSpamDown": 2,
     "whiteBanned": 0,
     "grayPassed": 3,
     "grayBanned": 0,
     "grayReviewBanned": 1,
-    "whitePassRate": 78,
+    "whitePassRate": 80,
     "grayPassRate": 75,
-    "whiteAvgLife": 22,
+    "whiteAvgLife": 20,
     "grayAvgLife": 15
   }
 }
