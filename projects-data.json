@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-25T08:30:21.827Z",
+  "timestamp": "2025-08-29T14:11:30.325Z",
   "version": "1.0",
   "projects": [
     {
@@ -102,8 +102,8 @@
       "whiteBannedDate": null,
       "grayPassed": false,
       "grayPassedDate": null,
-      "grayReviewBanned": false,
-      "grayReviewBannedDate": null,
+      "grayReviewBanned": true,
+      "grayReviewBannedDate": "2025-08-29",
       "grayBanned": false,
       "grayBannedDate": null
     },
@@ -125,8 +125,8 @@
       "grayPassedDate": "2025-08-23",
       "grayReviewBanned": false,
       "grayReviewBannedDate": null,
-      "grayBanned": false,
-      "grayBannedDate": null
+      "grayBanned": true,
+      "grayBannedDate": "2025-08-28"
     },
     {
       "id": "1755257872041i1192onto",
@@ -220,11 +220,11 @@
     "whiteSpamDown": 1,
     "whiteBanned": 0,
     "grayPassed": 3,
-    "grayBanned": 2,
-    "grayReviewBanned": 1,
+    "grayBanned": 3,
+    "grayReviewBanned": 2,
     "whitePassRate": 90,
-    "grayPassRate": 75,
-    "whiteAvgLife": 16,
+    "grayPassRate": 60,
+    "whiteAvgLife": 18,
     "grayAvgLife": 6
   }
 }
