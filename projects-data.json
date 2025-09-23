@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-08T10:40:48.887Z",
+  "timestamp": "2025-09-23T07:36:40.685Z",
   "version": "1.0",
   "projects": [
     {
@@ -209,8 +209,8 @@
       "grayPassedDate": "2025-09-07",
       "grayReviewBanned": false,
       "grayReviewBannedDate": null,
-      "grayBanned": false,
-      "grayBannedDate": null
+      "grayBanned": true,
+      "grayBannedDate": "2025-09-13"
     },
     {
       "id": "1757162137150n7azlnsvv",
@@ -226,12 +226,12 @@
       "whiteSpamDownDate": null,
       "whiteBanned": false,
       "whiteBannedDate": null,
-      "grayPassed": false,
-      "grayPassedDate": null,
+      "grayPassed": true,
+      "grayPassedDate": "2025-09-15",
       "grayReviewBanned": false,
       "grayReviewBannedDate": null,
-      "grayBanned": false,
-      "grayBannedDate": null
+      "grayBanned": true,
+      "grayBannedDate": "2025-09-16"
     },
     {
       "id": "1757162221430trqd2ft1t",
@@ -268,8 +268,8 @@
       "whiteSpamDownDate": null,
       "whiteBanned": false,
       "whiteBannedDate": null,
-      "grayPassed": false,
-      "grayPassedDate": null,
+      "grayPassed": true,
+      "grayPassedDate": "2025-09-17",
       "grayReviewBanned": false,
       "grayReviewBannedDate": null,
       "grayBanned": false,
@@ -282,12 +282,12 @@
     "whitePassed": 12,
     "whiteSpamDown": 1,
     "whiteBanned": 0,
-    "grayPassed": 5,
-    "grayBanned": 3,
+    "grayPassed": 7,
+    "grayBanned": 5,
     "grayReviewBanned": 3,
     "whitePassRate": 92,
-    "grayPassRate": 63,
-    "whiteAvgLife": 19,
-    "grayAvgLife": 5
+    "grayPassRate": 70,
+    "whiteAvgLife": 24,
+    "grayAvgLife": 7
   }
 }
